@@ -8,7 +8,8 @@ I am [Hayden Fuller](https://www.linkedin.com/in/hayden-f-0b1110154/), I'm a jun
     const hayden = {
         code: [JavaScript, TypeScript, Ruby, HTML/CSS],
         other: [Node, React, Git/Github, GraphQL, NoSQL, SQL],
-   	challenges: "This year I want to be hired as a full-time junior developer, first clients on side project, read 1 book a month"
+   	challenges: "This year I want to be hired as a full-time junior developer, first clients on side project,
+    read 1 book a month"
   }
 ```
 
