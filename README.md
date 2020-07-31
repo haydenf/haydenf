@@ -13,5 +13,5 @@ I am [Hayden Fuller](https://www.linkedin.com/in/hayden-f-0b1110154/), I'm a jun
   }
 ```
 
-Outisde of coding: `Technology` `Cars` `Art` `Food & Drinks` `Anime` `3D printing` `Books`
+Outisde of coding: `Technology` `Cars` `Art` `Food & Drinks` `Anime` `Books`
 
