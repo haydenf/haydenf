@@ -1,4 +1,4 @@
-![haydenfullerBanner](./images/haydenfullerBanner.png)
+![haydenfullerBanner](https://raw.githubusercontent.com/haydenf/haydenf/master/images/haydenfullerBanner.png)
 
 ### Hi, 
 
