@@ -2,7 +2,7 @@
 
 ### Hi, 
 
-I am [Hayden Fuller](https://www.linkedin.com/in/hayden-f-0b1110154/), I'm a junior full-stack developer with an interest in automation, data, aesthetics and all things JavaScript. I'd love to do anything that has a beneficial impact on society / earth. It could be working within healthcare, energy, teaching, honestly anywhere and anything with a positive impact! I just want to go home feeling happy with my contributions to the world.
+I am [Hayden Fuller](https://www.linkedin.com/in/hayden-f-0b1110154/), I'm a full-stack developer with an interest in automation, data, aesthetics and all things JavaScript. I'd love to do anything that has a beneficial impact on society / earth. It could be working within healthcare, energy, teaching, honestly anywhere and anything with a positive impact! I just want to go home feeling happy with my contributions to the world.
 
 ```javascript
     const hayden = {
