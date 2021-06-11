@@ -2,4 +2,4 @@
 
 ### Hi, 
 
-I am [Hayden Fuller](https://www.linkedin.com/in/hayden-f-0b1110154/), I'm a full-stack developer with an interest in automation, data and aesthetics.
+I am [Hayden Fuller](https://www.linkedin.com/in/hayden-f-0b1110154/), I'm a full-stack developer with an interest in automation, data and all things Javascript.
